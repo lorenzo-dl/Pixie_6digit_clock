@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.0" id="Livello_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 425.2 283.46" style="enable-background:new 0 0 425.2 283.46;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#E30613;stroke-width:0.7087;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st1{font-family:'MyriadPro-Regular';}
+	.st2{font-size:12px;}
+</style>
+<g id="LWPOLYLINE">
+	<path class="st0" d="M251.79,195.55h35.43c1.57,0,2.83-1.27,2.83-2.83v-21.26c0-1.57-1.27-2.83-2.83-2.83h-35.43
+		c-1.57,0-2.83,1.27-2.83,2.83v21.26C248.96,194.28,250.23,195.55,251.79,195.55z"/>
+</g>
+<g id="CIRCLE">
+	<circle class="st0" cx="336.35" cy="184.21" r="2.83"/>
+</g>
+<g id="CIRCLE_1_">
+	<circle class="st0" cx="336.35" cy="99.17" r="2.83"/>
+</g>
+<g id="CIRCLE_2_">
+	<circle class="st0" cx="88.31" cy="99.17" r="2.83"/>
+</g>
+<g id="CIRCLE_3_">
+	<circle class="st0" cx="88.31" cy="184.21" r="2.83"/>
+</g>
+<g id="LWPOLYLINE_1_">
+	<path class="st0" d="M74.14,107.67C74.14,95.15,84.29,85,96.82,85h231.02c12.52,0,22.68,10.15,22.68,22.68v68.03
+		c0,12.52-10.15,22.68-22.68,22.68H96.82c-12.52,0-22.68-10.15-22.68-22.68V107.67z"/>
+</g>
+<text transform="matrix(1 0 0 1 181.387 141.6899)" class="st1 st2">@delucalabs</text>
+</svg>
